@@ -28,8 +28,7 @@ export default class LoginForm extends Component {
             onBlurChangePhone: false,
             onBlurChangeEmail: false,
             onBlurChangePass: false,
-            onBlurChangePassAgain: false,
-            counter: 0
+            onBlurChangePassAgain: false
         }
 
         this.handleChange = this.handleChange.bind(this)
@@ -41,15 +40,6 @@ export default class LoginForm extends Component {
         this.onBlurEmail = this.onBlurEmail.bind(this)
         this.onBlurPass = this.onBlurPass.bind(this)
         this.onBlurPassAgain = this.onBlurPassAgain.bind(this)
-        this.countFunc()
-    }
-
-    countFunc() {
-        setInterval(()=>{
-            this.setState((prevState)=>{
-                return {counter: prevState.counter + 1}
-            })
-        }, 1000)
     }
 
     handleChange (event){
@@ -136,7 +126,6 @@ export default class LoginForm extends Component {
     render(){
         return(
             <form onSubmit={this.onSubmit}>
-            {this.state.counter}
 
                 <div className="form">
                 

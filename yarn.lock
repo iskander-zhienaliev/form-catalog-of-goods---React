@@ -3054,8 +3054,8 @@ hoek@2.x.x:
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-2.16.3.tgz#20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
 
 hoist-non-react-statics@^2.3.1, hoist-non-react-statics@^2.5.0:
-  version "2.5.4"
-  resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.4.tgz#fc3b1ac05d2ae3abedec84eba846511b0d4fcc4f"
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.0.tgz#d2ca2dfc19c5a91c5a6615ce8e564ef0347e2a40"
 
 home-or-tmp@^2.0.0:
   version "2.0.0"
@@ -5407,8 +5407,8 @@ raw-body@2.3.2:
     unpipe "1.0.0"
 
 rc-align@^2.4.0:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/rc-align/-/rc-align-2.4.1.tgz#604c71e76063606aa076868efaf23213b188034b"
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/rc-align/-/rc-align-2.4.0.tgz#61d8371c3a984048e682378734cc7efd6a19baa3"
   dependencies:
     babel-runtime "^6.26.0"
     dom-align "^1.7.0"
@@ -5425,8 +5425,8 @@ rc-animate@2.x, rc-animate@^2.0.2, rc-animate@^2.3.0, rc-animate@^2.4.1:
     prop-types "15.x"
 
 rc-calendar@~9.6.0:
-  version "9.6.2"
-  resolved "https://registry.yarnpkg.com/rc-calendar/-/rc-calendar-9.6.2.tgz#c7309db41225f4b8c81d5a1dcbe46d8ce07b6aee"
+  version "9.6.1"
+  resolved "https://registry.yarnpkg.com/rc-calendar/-/rc-calendar-9.6.1.tgz#eb4fe307224d52ec86dd6229eebf44b24e3dc27c"
   dependencies:
     babel-runtime "6.x"
     classnames "2.x"
@@ -5582,8 +5582,8 @@ rc-rate@~2.4.0:
     rc-util "^4.3.0"
 
 rc-select@~8.0.7:
-  version "8.0.12"
-  resolved "https://registry.yarnpkg.com/rc-select/-/rc-select-8.0.12.tgz#6899c4dbf6e54cf33074aa14acd361004850f379"
+  version "8.0.11"
+  resolved "https://registry.yarnpkg.com/rc-select/-/rc-select-8.0.11.tgz#9450a8ac5b46eb47a10f3c31f0996f64d3d68fb6"
   dependencies:
     babel-runtime "^6.23.0"
     classnames "2.x"

@@ -1,11 +1,8 @@
 import React, { Component } from "react";
-import { goods } from "./goods";
+import { goods } from "../goods";
 import "./ListOfGoods.scss";
-//import { Pagination} from 'antd'
 import Product from "./Product";
 import Pagination from "./Pagination";
-//import 'antd/dist/antd.css'
-import { Route } from "react-router-dom";
 
 class ListOfGoods extends Component {
   constructor(props) {
